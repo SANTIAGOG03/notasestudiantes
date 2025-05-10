@@ -1,1 +1,3 @@
 
+poara acceder a la nota de un estudiante usar /estudiante/y el id ejemplo 1/notas
+para acceder a las notas en general estudiante/notas
